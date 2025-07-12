@@ -1,0 +1,8 @@
+PlantVillage/
+plantenv/
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.DS_Store
+test_images/
