@@ -2,7 +2,6 @@
 
 This is a deep learning-powered web app that detects plant leaf diseases from images using a Convolutional Neural Network (CNN). The app is built with **TensorFlow**, **OpenCV**, and deployed using **Streamlit**.
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Add+your+Streamlit+app+screenshot+here)
 
 ---
 
